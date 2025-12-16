@@ -128,6 +128,17 @@ video {
   overflow: hidden;
 }
 
+.s01-1 {
+  padding: 4% 4% 1% 4%;
+}
+
+.s01_video {
+  top: 0;
+  background-image: url("resource/Frame.jpg");
+  padding: 8px;
+  aspect-ratio: 16 / 9;
+}
+
 .s03_video {
   top: 0;
   width: 78%;
